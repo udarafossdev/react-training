@@ -1,2 +1,2 @@
 # react-training
-A repository to understand and learn to develope with React
+A repository to understand and learn to develop with React

@@ -1,0 +1,29 @@
+{
+  "name": "react-training",
+  "version": "1.0.0",
+  "description": "A test ground for ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udarafossdev/react-training.git"
+  },
+  "keywords": [
+    "react",
+    "training"
+  ],
+  "author": "Prasanna Udara Jayawardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udarafossdev/react-training/issues"
+  },
+  "homepage": "https://github.com/udarafossdev/react-training#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
